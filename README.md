@@ -1,4 +1,4 @@
-# bootstrap4--coursera-assignments -- AL
+# bootstrap4--coursera-assignments -- ALl
 to run on local machine 
 follow the steps  for linux--
 1.open terminal 
@@ -10,17 +10,17 @@ follow the steps  for linux--
 4. install node and npm from : https://nodejs.org/en/download/
          before further steps make sure node and npm is working fine in your system 
          you can check this by using commands 
-         { 
+         
            $ node -v
            $ npm -v
-                      }
+                      
  if these command give some version means node is installed corectly you are good to go 
  
     
     5.  $ npm install
   (this will install required node modules )
     6.  $ npm start 
-This will start lite server output will be :
+(This will start lite server output will be ):
 [
  confusion@1.0.0 start /home/yadavshivam/Desktop/bootstrap-coursera-assignments-
 > npm run lite
